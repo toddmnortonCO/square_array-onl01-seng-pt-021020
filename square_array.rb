@@ -6,5 +6,3 @@ def square_array(array)
   squared 
   # your code here
 end
-
-puts square_array(Array)
